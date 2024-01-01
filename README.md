@@ -7,3 +7,4 @@ This is the code for the following paper:
 
 A follow-up for this paper is the following paper:
 - Benyamin Ghojogh. "Principal sample analysis for data ranking." In Advances in Artificial Intelligence: 32nd Canadian Conference on Artificial Intelligence, Canadian AI 2019, Kingston, ON, Canada, May 28–31, 2019, Proceedings 32, pp. 579-583. Springer International Publishing, 2019.
+- Link to paper: https://link.springer.com/chapter/10.1007/978-3-030-18305-9_62
