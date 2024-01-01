@@ -1,4 +1,4 @@
-# Principal-Sample-Analysis
+# Principal Sample Analysis
  The code for Principal Sample Analysis (PSA) for prototype selection and instance ranking
 
 This is the code for the following paper:
